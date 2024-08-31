@@ -4,3 +4,7 @@ Soy un estudiante de UTEC, estudio la carrera de Admnistración y Negocios Digit
 ## Adrian Urbina 
 
 Soy estudiante de Utec . Carrera de Ciencia de Datos.
+
+## Celeste Sevillano
+
+Soy estudiante de Administracion y Negocios Digitales.
